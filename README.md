@@ -1,7 +1,7 @@
 # JSON Parser - Red Cell Sweep
 [Annex: Parser Design](./PARSER_DESIGN_ANNEX.md)
 
-[![json-parser-redcell-sweep](https://github.com/codingUnited/Red-Cell-Sweep/actions/workflows/ci.yml/badge.svg)](https://github.com/codingUnited/Red-Cell-Sweep/actions/workflows/ci.yml)
+[![json-parser-redcell-sweep](https://github.com/codingUnited/json-parser-redcell-bradsaucier/actions/workflows/ci.yml/badge.svg)](https://github.com/codingUnited/json-parser-redcell-bradsaucier/actions/workflows/ci.yml)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue)](https://www.python.org)
 [![License MIT](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
