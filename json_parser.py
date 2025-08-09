@@ -277,6 +277,8 @@ def _parse_array(tokens: LookAhead, depth: int, max_depth: int, allow_dup: bool)
             break
         _expect(tokens, "COMMA", ",")
     return items
+
+# ---------------------------------------------------------------------------
 # OBJECT PARSER
 # ---------------------------------------------------------------------------
 def _parse_object(tokens: LookAhead, depth: int, max_depth: int, allow_dup: bool):
@@ -310,6 +312,8 @@ def _parse_object(tokens: LookAhead, depth: int, max_depth: int, allow_dup: bool
             break
         _expect(tokens, "COMMA", ",")
     return obj
+
+# ---------------------------------------------------------------------------
 # PUBLIC API
 # ---------------------------------------------------------------------------
 def parse(text: str, *, max_depth: int = DEPTH_LIMIT_DEFAULT, allow_dup: bool = False):
