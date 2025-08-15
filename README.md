@@ -9,10 +9,10 @@
 > Zero-dependency JSON validator. Sub-millisecond on small payloads. Depth-capped for hostile input. Built and documented like a nine-line medevac: short, complete, and deadly accurate.
 
 **Author**  
-Bradley Saucier  
+Bradley Saucier, SMSgt, USAF (Ret.) - Retired Combat Controller  
 B.S. Candidate, Computer Science (STEM Project Management), Southern New Hampshire University  
 B.A. Economics, Columbia University  
-A.A.S., Community College of the Air Force
+A.A.S., Strategic Operations Management, Community College of the Air Force  
 
 ---
 
